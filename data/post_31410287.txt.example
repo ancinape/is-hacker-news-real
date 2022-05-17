@@ -1,0 +1,43 @@
+[
+    {
+        "by": "harambae",
+        "descendants": 3,
+        "id": 31410287,
+        "kids": [
+            31410997,
+            31410557
+        ],
+        "score": 4,
+        "time": 1652794268,
+        "title": "White House releases plan to boost housing supply",
+        "type": "story",
+        "url": "https://thehill.com/news/administration/3489453-white-house-releases-plan-to-boost-housing-supply/"
+    },
+    {
+        "by": "ThalesX",
+        "id": 31410997,
+        "parent": 31410287,
+        "text": "&gt; The administration released a \u201cHousing Supply Action Plan\u201d that officials said would produce more housing supply, including affordable units, in the next five years.<p>Aaaand it&#x27;s priced in.<p>&gt; The White House also urged lawmakers to pass Biden\u2019s 2023 budget request, which includes a proposal for $10 billion in HUD grants to increase accessibility to affordable housing.<p>&quot;The House on Tuesday night passed a $40 billion military and humanitarian aid package&quot; (<a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2022&#x2F;05&#x2F;10&#x2F;us&#x2F;politics&#x2F;congress-ukraine-aid-questions.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2022&#x2F;05&#x2F;10&#x2F;us&#x2F;politics&#x2F;congress-ukra...</a>)<p>... how anyone can treat politics seriously is beyond me.",
+        "time": 1652796924,
+        "type": "comment"
+    },
+    {
+        "by": "mikece",
+        "id": 31410557,
+        "kids": [
+            31410796
+        ],
+        "parent": 31410287,
+        "text": "&quot;Solutions brought to you by the government&quot; tend to do the opposite of what they intended. I shall remain skeptical.",
+        "time": 1652795258,
+        "type": "comment"
+    },
+    {
+        "by": "codefreeordie",
+        "id": 31410796,
+        "parent": 31410557,
+        "text": "Well, I wouldn&#x27;t say they do the opposite of what&#x27;s <i>intended</i>, they just do the opposite of whatever lie they told you to get you to accept it.<p>In this instance, the proposal is to dramatically increase the price of housing by giving away free money to people that they can only use if they buy housing",
+        "time": 1652796106,
+        "type": "comment"
+    }
+]
