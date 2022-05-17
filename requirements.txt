@@ -3,3 +3,4 @@ matplotlib
 requests
 time
 json
+beautifulsoup4
